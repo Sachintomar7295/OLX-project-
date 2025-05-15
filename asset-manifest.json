@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/OLX-project-/static/css/main.735c1fea.css",
-    "main.js": "/OLX-project-/static/js/main.b7c80d1c.js",
+    "main.js": "/OLX-project-/static/js/main.9ce9275b.js",
     "static/js/453.1974fc02.chunk.js": "/OLX-project-/static/js/453.1974fc02.chunk.js",
     "index.html": "/OLX-project-/index.html",
     "main.735c1fea.css.map": "/OLX-project-/static/css/main.735c1fea.css.map",
-    "main.b7c80d1c.js.map": "/OLX-project-/static/js/main.b7c80d1c.js.map",
+    "main.9ce9275b.js.map": "/OLX-project-/static/js/main.9ce9275b.js.map",
     "453.1974fc02.chunk.js.map": "/OLX-project-/static/js/453.1974fc02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.735c1fea.css",
-    "static/js/main.b7c80d1c.js"
+    "static/js/main.9ce9275b.js"
   ]
 }
