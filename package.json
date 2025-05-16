@@ -2,7 +2,8 @@
   "name": "olx",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sachintomar7295.github.io/OLX-project-",
+  "homepage": "https://Sachintomar7295.github.io/OLX-project-"
+
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
